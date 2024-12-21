@@ -1,0 +1,20 @@
+C:\Users\user\OneDrive - uludag.edu.tr\Masaüstü\HastaKayıt\bin\Debug\HastaKayıt.exe.config
+C:\Users\user\OneDrive - uludag.edu.tr\Masaüstü\HastaKayıt\bin\Debug\HastaKayıt.exe
+C:\Users\user\OneDrive - uludag.edu.tr\Masaüstü\HastaKayıt\bin\Debug\HastaKayıt.pdb
+C:\Users\user\OneDrive - uludag.edu.tr\Masaüstü\HastaKayıt\obj\Debug\HastaKayıt.csproj.AssemblyReference.cache
+C:\Users\user\OneDrive - uludag.edu.tr\Masaüstü\HastaKayıt\obj\Debug\HastaKayıt.Form1.resources
+C:\Users\user\OneDrive - uludag.edu.tr\Masaüstü\HastaKayıt\obj\Debug\HastaKayıt.Properties.Resources.resources
+C:\Users\user\OneDrive - uludag.edu.tr\Masaüstü\HastaKayıt\obj\Debug\HastaKayıt.csproj.GenerateResource.cache
+C:\Users\user\OneDrive - uludag.edu.tr\Masaüstü\HastaKayıt\obj\Debug\HastaKayıt.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive - uludag.edu.tr\Masaüstü\HastaKayıt\obj\Debug\HastaKayıt.exe
+C:\Users\user\OneDrive - uludag.edu.tr\Masaüstü\HastaKayıt\obj\Debug\HastaKayıt.pdb
+C:\Users\user\OneDrive - uludag.edu.tr\Belgeler\Dersler\C# Dersleri\HastaKayıt\bin\Debug\HastaKayıt.exe.config
+C:\Users\user\OneDrive - uludag.edu.tr\Belgeler\Dersler\C# Dersleri\HastaKayıt\bin\Debug\HastaKayıt.exe
+C:\Users\user\OneDrive - uludag.edu.tr\Belgeler\Dersler\C# Dersleri\HastaKayıt\bin\Debug\HastaKayıt.pdb
+C:\Users\user\OneDrive - uludag.edu.tr\Belgeler\Dersler\C# Dersleri\HastaKayıt\obj\Debug\HastaKayıt.csproj.AssemblyReference.cache
+C:\Users\user\OneDrive - uludag.edu.tr\Belgeler\Dersler\C# Dersleri\HastaKayıt\obj\Debug\HastaKayıt.Form1.resources
+C:\Users\user\OneDrive - uludag.edu.tr\Belgeler\Dersler\C# Dersleri\HastaKayıt\obj\Debug\HastaKayıt.Properties.Resources.resources
+C:\Users\user\OneDrive - uludag.edu.tr\Belgeler\Dersler\C# Dersleri\HastaKayıt\obj\Debug\HastaKayıt.csproj.GenerateResource.cache
+C:\Users\user\OneDrive - uludag.edu.tr\Belgeler\Dersler\C# Dersleri\HastaKayıt\obj\Debug\HastaKayıt.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive - uludag.edu.tr\Belgeler\Dersler\C# Dersleri\HastaKayıt\obj\Debug\HastaKayıt.exe
+C:\Users\user\OneDrive - uludag.edu.tr\Belgeler\Dersler\C# Dersleri\HastaKayıt\obj\Debug\HastaKayıt.pdb

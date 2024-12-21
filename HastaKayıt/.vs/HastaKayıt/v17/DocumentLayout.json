@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\OneDrive - uludag.edu.tr\\Belgeler\\Dersler\\C# Dersleri\\HastaKay\u0131t\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B3F8E8DA-C485-4CD8-8904-5311644A1952}|HastaKay\u0131t.csproj|C:\\Users\\user\\OneDrive - uludag.edu.tr\\Belgeler\\Dersler\\C# Dersleri\\HastaKay\u0131t\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B3F8E8DA-C485-4CD8-8904-5311644A1952}|HastaKay\u0131t.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3F8E8DA-C485-4CD8-8904-5311644A1952}|HastaKay\u0131t.csproj|c:\\users\\user\\onedrive - uludag.edu.tr\\belgeler\\dersler\\c# dersleri\\hastakay\u0131t\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3F8E8DA-C485-4CD8-8904-5311644A1952}|HastaKay\u0131t.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3F8E8DA-C485-4CD8-8904-5311644A1952}|HastaKay\u0131t.csproj|C:\\Users\\user\\OneDrive - uludag.edu.tr\\Belgeler\\Dersler\\C# Dersleri\\HastaKay\u0131t\\hasta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3F8E8DA-C485-4CD8-8904-5311644A1952}|HastaKay\u0131t.csproj|solutionrelative:hasta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive - uludag.edu.tr\\Belgeler\\Dersler\\C# Dersleri\\HastaKay\u0131t\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive - uludag.edu.tr\\Belgeler\\Dersler\\C# Dersleri\\HastaKay\u0131t\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T19:26:55.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Hasta.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive - uludag.edu.tr\\Belgeler\\Dersler\\C# Dersleri\\HastaKay\u0131t\\Hasta.cs",
+              "RelativeDocumentMoniker": "Hasta.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive - uludag.edu.tr\\Belgeler\\Dersler\\C# Dersleri\\HastaKay\u0131t\\Hasta.cs",
+              "RelativeToolTip": "Hasta.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T19:24:46.553Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive - uludag.edu.tr\\Belgeler\\Dersler\\C# Dersleri\\HastaKay\u0131t\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive - uludag.edu.tr\\Belgeler\\Dersler\\C# Dersleri\\HastaKay\u0131t\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T19:12:22.285Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
